@@ -1,2 +1,2 @@
-# Intro-to-ML
-materials for the intro weeks.
+# Intro to ML
+Materials for the intro weeks.
